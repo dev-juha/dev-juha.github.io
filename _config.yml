@@ -119,8 +119,8 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
+    repo: dev-juha/dev-juha.github.io # <gh-username>/<repo>
+    repo_id: 844524723
     category:
     category_id:
     mapping: # optional, default to 'pathname'
