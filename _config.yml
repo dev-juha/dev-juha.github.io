@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: dev-juha/dev-juha.github.io # <gh-username>/<repo>
     repo_id: 844524723
-    category:
-    category_id:
+    category: comments-from-site
+    category_id: 42474217
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
